@@ -1,8 +1,8 @@
 # LP44_Split
-- Low-Profile Wireless Split Keyboard coming at 12mm thick
-- (inspired by TOTEM created by GEIGEIGEIST, and also delta-omega created by unspecworks)
+Low-Profile Wireless Split Keyboard coming at 12mm thick
+ (inspired by TOTEM created by GEIGEIGEIST, and also delta-omega created by unspecworks)
 
-##Overview
+#Overview
 - Soldered Choc switches (To Achieve the thickness)
 - 44 Keys, Column Staggered
 - Wireless utilizing the ZMK Firmware
